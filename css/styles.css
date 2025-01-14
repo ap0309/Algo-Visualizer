@@ -7,7 +7,6 @@ html,
 body {
   height: 100%;
 }
-
 body {
   background-color: #343f51;
 }
@@ -22,7 +21,6 @@ body {
 #header {
   flex: 0 1 80px;
   background-color: white;
-  /* height: 80px; */
 }
 
 #title {

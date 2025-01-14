@@ -1,7 +1,7 @@
-# Algorithm Visualizer
+# Algo-Visualizer
 
 
-View Algorithm Visualizer
+View Algo-Visualizer
 Link here :- https://ap0309.github.io/Algo-Visualizer/
 
 ### TODO

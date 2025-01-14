@@ -6,8 +6,8 @@
 //     value: character <-- this will store value of current node.
 //     children: [] <--- this array will store left and right of node
 // }
-
 // Tree will be stored as object.
+
 let data = { value: null, children: [] };
 // Current available id for the node. We will give each node a unique id and put this as their html element "id".
 let curId = 1;

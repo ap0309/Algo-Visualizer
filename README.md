@@ -6,8 +6,8 @@ Link here :- https://ap0309.github.io/Algo-Visualizer/
 
 ### TODO
 
-- [ ] Add instructions in all visualizer to make it more user friendly.
-- [ ] Add graph / sorting algorithm description.
+- Add instructions in all visualizer to make it more user friendly.
+- Add graph / sorting algorithm description.
 
 <h3>Trie</h3>
 Insert / Delete Word.
